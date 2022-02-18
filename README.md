@@ -1,8 +1,5 @@
 # Bollywood-face-similarity
 
-We all are very curious about comparing ourselfs to other. Imagine comparing your facial features with Bollywood celebrities
-to find your lookalike celeb.
-
 ## Project details
 
 Used VGGFace and Resnet50 model we extract features from the photos of the celebrities.
