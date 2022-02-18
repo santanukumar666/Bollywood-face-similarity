@@ -28,4 +28,8 @@ Multi-task Cascaded Convolutional Networks (MTCNN) is a framework developed as a
 The VGGFace refers to a series of models developed for face recognition and demonstrated on benchmark computer vision datasets by members of the Visual Geometry Group (VGG) at the University of Oxford. There are two main VGG models for face recognition at the time of writing; they are VGGFace and VGGFace2
 
 
+## What I plan to do next
 
+I plan to expand the dataset to sportspersons, politicians, hollywood actors and other famous personalities.
+
+Make some changes in the UI and also shift it to flask webapp.
