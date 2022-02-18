@@ -17,6 +17,10 @@ Made the webapp using streamlit.
 ![photo3](https://user-images.githubusercontent.com/60546202/154656274-b3f3926e-3d7a-4930-b86a-8ab172196845.jpg)
 
 
+### Dataset
+Dataset can be downloaded from [here](https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset)
+
+
 #### MTCNN 
 Multi-task Cascaded Convolutional Networks (MTCNN) is a framework developed as a solution for both face detection and face alignment. The process consists of three stages of convolutional networks that are able to recognize faces and landmark location such as eyes, nose, and mouth.
 
